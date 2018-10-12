@@ -43,6 +43,7 @@ def draw(chessboard):
     if last_chess[0] != -1:
     	pygame.draw.circle(screen,(0,0,255),[(last_chess[0]+1)*70,(last_chess[1]+1)*70],20,5)
 
+#AI思考线程
 def AI_mind():
 	global last_chess
 	global Winner
@@ -62,6 +63,7 @@ def AI_mind():
 				turn = 2
 				Winner = -1
 
+#游戏结束
 def Game_Over():
 	global text
 	while running:
