@@ -1,9 +1,14 @@
 # Alpha-Beta-Gobang
 对抗搜索Alpha-Beta剪枝 应用于五子棋
 --------------------------------
-    The game using alpha-beta algorithm with python.
-    It is easy to start. Just input *python main.py*.
-    Also, you need *pip install pygame* and *pip install numpy* as the basic lib.
+The game using alpha-beta algorithm with python.
+It is easy to start. Just input 
+    python main.py
+Also, you need 
+    pip install pygame 
+and
+    pip install numpy 
+as the basic lib.
     
     The search-deep is just 3 now. And maybe will be improved in the future.
     
