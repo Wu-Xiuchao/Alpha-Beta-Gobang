@@ -12,6 +12,9 @@
     For UI and has two another threads to run AI mind.    
    **minimax.py** 
     The minimax algorithm
-   **compute.py** To compute the next step 
-   **grade.py** Evaluate the grade of the chessboard
-   **judge_win.py** Judge if 5 chesses are formed
+   **compute.py** 
+    To compute the next step 
+   **grade.py** 
+    Evaluate the grade of the chessboard
+   **judge_win.py** 
+    Judge if 5 chesses are formed
