@@ -1,6 +1,7 @@
 # Alpha-Beta-Gobang
 对抗搜索Alpha-Beta剪枝 应用于五子棋
 --------------------------------
+![剪枝算法](https://github.com/Wu-Xiuchao/Alpha-Beta-Gobang/blob/master/pic.png)
 The game using alpha-beta algorithm with python.
 It is easy to start. Just input 
 
